@@ -1,5 +1,6 @@
 #!/bin/sh
 
+pkg install figlet
 clear
 r="\033[1;31m" # merah
 g="\033[1;32m" # hijau
