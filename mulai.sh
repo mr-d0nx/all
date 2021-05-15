@@ -76,7 +76,7 @@ echo $w"///////////////////////////////////////////"
         sleep 3
 echo
 echo
-echo  "Pilih Menu Tools Nyah aldi"
+echo  "Pilih Menu Tools"
 echo  $w"———————————————————————————————"
 echo $y" Tools Spam "$w": "
 echo $w"["$g"1"$w"] "$p"SpamCall-by.hack aldi"
@@ -127,7 +127,7 @@ echo $w"["$y"21"$w"] "$y"Tools King-Hacking"
 echo $w"["$y"22"$w"] "$y"Tools TuanBadut"
 echo $w"["$y"23"$w"] "$y"Tools Phising"
 echo $w"["$y"24"$w"] "$y"Tools VIP"
-echo $w"["$y"25"$w"] "$y"Tools Gw:v"
+echo $w"["$y"25"$w"] "$y"Tools Temen GW:v"
 echo $w"————————————————————————————————"
 echo
 echo $w"————————————————————————————————"
